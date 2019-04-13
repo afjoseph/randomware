@@ -1,7 +1,7 @@
 Proof of Concept Linux Ransomware 
 =================================
 
-This is a simple ransomware created for [BSides Ljubljana 0x7E3](https://0x7e3.bsidesljubljana.si/reversing-mobile-malware-abdullah-joseph/).
+This is a simple ransomware
 
 The idea is to prove that writing a blindly destructive piece of software is not only very simple, but can be achieved with less than 200 lines of code.
 
